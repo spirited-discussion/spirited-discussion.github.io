@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chateau Smith 2016
-date:   2015-12-16
+date:   2019-12-16
 description: Reminds me of a CabSav that I used to know
 ---
 
@@ -12,3 +12,5 @@ After a long day, we cracked open this bottle of Cabernet Sauvignon hailing from
 | *Varietals*  | 97% Cabernet for the 2015 varietal               |
 | *Rating*      | Demi – would drink in a pinch but get something else if I needed more than a glass or two               |
 | *When*       |  You don't feel like leaving to get a different wine, or it's the most acceptable option you can find at the corner store              |
+
+![Chateau Smith](/img/Bottle_ChateauSmith_Updated.png)
