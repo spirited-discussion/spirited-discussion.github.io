@@ -1,0 +1,29 @@
+# Site settings
+title: spirited discussion
+email: junglejotiki@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  What shall we drink tonight? 
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+twitter_username: twitter_username
+github_username:  spirited-discussion
+
+# Build settings
+markdown: kramdown
+
+highlighter: pygments
+
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
+
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  poetry:
+    output: true
+    permalink: /poetry/:path/
+
+
