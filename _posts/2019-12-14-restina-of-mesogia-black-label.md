@@ -13,4 +13,4 @@ Something different – a natural, unfiltered white that hit me in the nose with
 | *Rating*      | Magnum – I would drink 2 bottles of this before getting fed up              |
 | *When*       |  Drink with another simple but brilliant dish like cacio e pepe             |
 
-![Retsina Black Label](RetsinaBlackLabel.jpg)
+![Retsina Black Label](/img/RetsinaBlackLabel.jpg)
